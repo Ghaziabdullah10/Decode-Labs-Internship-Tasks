@@ -1,2 +1,2 @@
-# Decode-Lab-Internship-Tasks
-Here I'll be Uploading Decode Lab Internship Tasks.
+# Decode-Labs-Internship-Tasks
+Here I'll be Uploading Decode Labs Internship Tasks.
